@@ -2,4 +2,4 @@
 
 var proveit = require('../pvs');
 
-console.log(proveit.get(process.argv[2]));
+console.log(proveit.get(process.argv[2] + '% Proven' ));
