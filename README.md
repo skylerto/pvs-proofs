@@ -1,3 +1,3 @@
-# PVS Badges
+# PVS Proofs
 
-PVS badges are github badges that show how many proofs you have outstanding in PVS specification
+Wrapper for generating number of outstanding PVS proofs. a.k.a proveit lite.
