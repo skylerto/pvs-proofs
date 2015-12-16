@@ -14,4 +14,4 @@ proofs [path to file]
 ```
 
 ## License
-© Skyler Layne, et al.
+MIT © Skyler Layne
