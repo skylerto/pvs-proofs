@@ -2,7 +2,7 @@
   "name": "pvs-proofs",
   "version": "0.1.1",
   "description": "PVS specification proof-left",
-  "main": "shell.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
